@@ -39,7 +39,7 @@ Are you interested in this project? We are looking for partners, technology
 companies, NGOs, coders, that are interested in working with us on this
 exciting project, so let us know.
 
-For more information contact [Ben Grubb](mailto:bgrubb@internews.org) or [Anahi Ayala Iacucci](mailto:ayala@internews.org).
+For more information contact [Anahi Ayala Iacucci](mailto:ayala@internews.org).
 
 The Humanitarian Information Dashboard is a project of [Internews](https://www.internews.org/).
 
